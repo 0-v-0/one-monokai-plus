@@ -1,0 +1,21 @@
+{
+  "name": "one-monokai-plus",
+  "displayName": "One Monokai Plus",
+  "description": "A better One Monokai Theme tuned for contrast",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Monokai Plus Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Monokai Plus Dark-color-theme.json"
+      }
+    ]
+  }
+}
